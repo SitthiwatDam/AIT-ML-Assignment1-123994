@@ -1,4 +1,4 @@
-# Assignment1-123994
+# Machine Learning: Assignment 1 - Predicting Car Prices
 ### Name: Sitthiwat Damrongpreechar
 ### Student ID: 123994
 
