@@ -2,6 +2,10 @@
 ### Name: Sitthiwat Damrongpreechar
 ### Student ID: 123994
 
+#### Required application:
+1. Visual Studio Code (VScode)
+2. Docker Desktop
+   
 #### Required VScode extensions:
 1. Jupyter
 2. Python
