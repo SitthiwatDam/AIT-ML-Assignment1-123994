@@ -3,10 +3,10 @@
 ### Student ID: 123994
 
 #### Required VScode extensions:
-1. Jupyter packages
+1. Jupyter
 2. Python
 3. Docker
-4. Remote Development packages
+4. Remote Development 
 5. Dev Containers (optional)
 
 #### How to use:
