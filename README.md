@@ -1,6 +1,4 @@
-# Machine Learning: Assignment 1 - Predicting Car Prices
-### Name: Sitthiwat Damrongpreechar
-### Student ID: 123994
+# Predicting Car Prices from scratch
 
 #### Required applications:
 1. Visual Studio Code (VScode)
